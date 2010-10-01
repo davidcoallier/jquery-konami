@@ -12,7 +12,7 @@
  * If you want to invoke or use konami, simply do that:
  *
  * <code>
- *    $('body').konami({
+ *    $(document).konami({
  *        codes: ['left', 'left'],
  *        callback: function() {
  *            alert('easter egg!!!');
