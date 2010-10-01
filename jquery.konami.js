@@ -55,7 +55,7 @@
             }
         });
 
-        $(document).keyup(function(e){
+        $(document).keyup(function(e) {
             var keyCode = e.keyCode ? e.keyCode : e.charCode;
             enteredKeys.push(keyCode);
 
