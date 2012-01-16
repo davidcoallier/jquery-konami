@@ -13,7 +13,7 @@
  *
  * <code>
  *    $(document).konami({
- *        codes: ['left', 'left'],
+ *        code: ['left', 'left'],
  *        callback: function() {
  *            alert('easter egg!!!');
  *        }
